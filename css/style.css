@@ -9,6 +9,17 @@
 .second{
     background-image: url("../img/s_image.jpg");
 }
+
 #mouse{
     margin-top: 420px;
 }
+#space{
+    display:none;
+}
+#road{
+    display:none;
+}
+#craft{
+    display:none;
+}
+
