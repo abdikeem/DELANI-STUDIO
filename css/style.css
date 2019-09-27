@@ -1,15 +1,14 @@
 .first{
-    background-image: url("/Desktop/Delani-Studio/img/h_img.jpg");
-    background-repeat: no-repeat;
-    height:850px;
-    width:1800px;
+    background-image: url("../img/h_img.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    padding-top: 200px;
 }
 
 .second{
-    background-image: url("/Desktop/Delani-Studio/img/s_image.jpg");
-    background-repeat: no-repeat;
-    height:850px;
-    width:1800px;
+    background-image: url("../img/s_image.jpg");
 }
-    
+#mouse{
+    margin-top: 420px;
 }
