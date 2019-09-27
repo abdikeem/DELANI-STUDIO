@@ -1,0 +1,15 @@
+.first{
+    background-image: url("/Desktop/Delani-Studio/img/h_img.jpg");
+    background-repeat: no-repeat;
+    height:850px;
+    width:1800px;
+}
+
+.second{
+    background-image: url("/Desktop/Delani-Studio/img/s_image.jpg");
+    background-repeat: no-repeat;
+    height:850px;
+    width:1800px;
+}
+    
+}
