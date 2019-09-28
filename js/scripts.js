@@ -11,4 +11,5 @@ $(document).ready(function(){
     $("#product").toggle();
     $("#craft").toggle();
   });
+
 });
