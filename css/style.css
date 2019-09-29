@@ -1,25 +1,58 @@
-.first{
+.container-fluid{
     background-image: url("../img/h_img.jpg");
     background-size: cover;
     height: 100vh;
     text-align: center;
     padding-top: 200px;
-}
+     }
 
 .second{
     background-image: url("../img/s_image.jpg");
-}
+    background-size: cover;
+    height: 60vh;
+    text-align: center;
+    padding-top: 200px;
+      }
 
 #mouse{
     margin-top: 420px;
-}
+     }
+
 #space{
     display:none;
-}
+     }
+
 #road{
     display:none;
-}
+     }
+
 #craft{
     display:none;
+     }
+
+.contact{
+    background-image: url("../img/c_image.jpg");
+    background-size: cover;
+    height: 90vh;
+    text-align: center;
+    padding-top: 200px;
+      }
+
+h3{
+text-align: center;
 }
+
+p{
+    font-size: 20px;
+}
+.first{
+    color:white;
+    margin-top
+}
+
+.second{
+    color:white;
+    font-size: 25px;
+}
+
 
