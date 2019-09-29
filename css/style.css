@@ -15,7 +15,7 @@
       }
 
 #mouse{
-    margin-top: 320px;
+    margin-top: 220px;
      }
 
 #space{
@@ -67,7 +67,7 @@ p{
   text-align: center;
 }
 
-.wallece:hover .world-1{
+.port:hover .world-1{
     opacity: 1;
 }
 .text{
