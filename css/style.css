@@ -67,7 +67,7 @@ p{
   text-align: center;
 }
 
-.port:hover .world-1{
+.wallece:hover .world-1{
     opacity: 1;
 }
 .text{
@@ -86,4 +86,87 @@ p{
     -ms-transform: translate(-50% -50%);
     text-align: center;
   }
+  .port:hover .world-2{
+    opacity: 1;
+}
+.world-3{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-3{
+    opacity: 1;
+}
+.world-4{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-4{
+    opacity: 1;
+}
+.world-5{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-5{
+    opacity: 1;
+}
+.world-6{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-6{
+    opacity: 1;
+}
+.world-7{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-7{
+    opacity: 1;
+}
+.world-8{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-8{
+    opacity: 1;
+}
+
+
 
