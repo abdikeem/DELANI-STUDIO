@@ -15,7 +15,7 @@
       }
 
 #mouse{
-    margin-top: 420px;
+    margin-top: 320px;
      }
 
 #space{
@@ -33,9 +33,10 @@
 .contact{
     background-image: url("../img/c_image.jpg");
     background-size: cover;
-    height: 90vh;
+    height: 60vh;
     text-align: center;
     padding-top: 200px;
+    color: aliceblue;
       }
 
 h3{
@@ -43,11 +44,12 @@ text-align: center;
 }
 
 p{
-    font-size: 20px;
+    font-size: 25px;
 }
 .first{
     color:white;
-    margin-top
+    margin-top: 80px;
+    font-size: 50px;
 }
 
 .second{
