@@ -56,7 +56,7 @@
                    <div class="col-md-3 port">
                      <img src="./assets/portfolio/work4.jpg">
                      <div class="world-1">
-                        <div class="text">kimza</div>
+                        <div class="text">black</div>
                    </div>
                    </div>
                    <div class="col-md-3 port">
@@ -74,7 +74,7 @@
                    <div class="col-md-3 port">
                      <img src="./assets/portfolio/work1.jpg">
                      <div class="world-4">
-                        <div class="text">incomplite</div>
+                        <div class="text">operator</div>
                 </div>
                 </div>
             </div><br>
@@ -109,14 +109,13 @@
           <div class="contact">
             <h2><b>CONTACT US</b></h2><br>
             <form id="form">
-              <div class="row">
-                <div class="col-md-6">
-              <input type="text" name="Name" id="userInfo" placeholder="Name...">
-                <div class="col-md-6">
-              <input type="text" name="email" id="gmail" placeholder="Email..."><br><br><br>
-              <div class="col-md-12">
-              <textarea rows=8 name="massage" id="sms" placeholder="your massage here..."></textarea>
-              <button type="button" onclick="alert(Your massage has been received,Thank you!)">submit</button>
+              <div class="form-row">    
+              <input type="text" name="Name" class="known" id="userInfo" placeholder="Name...">
+              <input type="text" name="email" class="known" id="gmail" placeholder="Email..."><br><br><br>  
+              <textarea id="sms" name="massage"  class="known" placeholder="your massage here..." rows="8" required="required" dara-error="please, fill your details."></textarea>
+              <div id="submit-button">
+                  <button onclick="submit()" id="submit">submit</button>
+          
               </div>
                 </div>
             </div>

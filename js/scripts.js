@@ -13,8 +13,9 @@ $(document).ready(function(){
   });
 
 });
+
 $(document).ready(function(){
-  $"form#form").submit(function(event){
+  $("form#form").submit(function(event){
     var name= $("input#userInfo").val();
     var email= $("input#gmail").val();
     var massage= $("input#sms").val();
@@ -25,3 +26,4 @@ $(document).ready(function(){
       alert("incorrect your name and email!");
     }
   });
+});
