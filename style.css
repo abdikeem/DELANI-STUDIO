@@ -1,0 +1,171 @@
+.container-fluid{
+    background-image: url("../img/h_img.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    padding-top: 200px;
+     }
+
+.second{
+    background-image: url("../img/s_image.jpg");
+    background-size: cover;
+    height: 60vh;
+    text-align: center;
+    padding-top: 200px;
+      }
+
+#mouse{
+    margin-top: 220px;
+     }
+
+#space{
+    display:none;
+     }
+
+#road{
+    display:none;
+     }
+
+#craft{
+    display:none;
+     }
+
+.contact{
+    background-image: url("../img/c_image.jpg");
+    background-size: cover;
+    height: 70vh;
+    padding-top: 200px;
+    color: aliceblue;
+      }
+
+h3{
+text-align: center;
+}
+
+p{
+    font-size: 25px;
+}
+.first{
+    color:white;
+    margin-top: 80px;
+    font-size: 50px;
+}
+
+.second{
+    color:white;
+    font-size: 25px;
+}
+.world-1{
+  transition:0.2s ease;
+  opacity:0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50% -50%);
+  text-align: center;
+}
+
+.port:hover .world-1{
+    opacity: 1;
+}
+.text{
+    border: 3px solid white;
+    color:white;
+    font-size: 18px;
+    padding: 15px 30px;
+}
+.world-2{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-2{
+    opacity: 1;
+}
+.world-3{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-3{
+    opacity: 1;
+}
+.world-4{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-4{
+    opacity: 1;
+}
+.world-5{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-5{
+    opacity: 1;
+}
+.world-6{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-6{
+    opacity: 1;
+}
+.world-7{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-7{
+    opacity: 1;
+}
+.world-8{
+    transition:0.2s ease;
+    opacity:0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50% -50%);
+    text-align: center;
+  }
+  .port:hover .world-8{
+    opacity: 1;
+}
+
+
+
