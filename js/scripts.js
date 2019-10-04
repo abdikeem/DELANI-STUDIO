@@ -13,17 +13,17 @@ $(document).ready(function(){
   });
 
 });
+ 
+$("#submit").click(function () {
+  event.preventDefault()
+  var name = $("#name").val();
+  var email = $("#email").val();
+  var message = $("#message").val();
 
-$(document).ready(function(){
-  $("form#form").submit(function(event){
-    var name= $("input#userInfo").val();
-    var email= $("input#gmail").val();
-    var massage= $("input#sms").val();
-    if($("input#userInfo").val() && $("input#gmail").val()){
-      alart(name + ", Your massage has been received.Thank you for reaching out to us.");
-    }
-    else{
-      alert("incorrect your name and email!");
-    }
-  });
+  if (name == '' || email == '' || message == '') {
+    $("#post").html("Please fill all fields");
+  } else {
+    $("#post").html(name + " Your message has been received. Thank you for reaching out to us");
+    $("form")[0].reset();
+  }
 });
