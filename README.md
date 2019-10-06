@@ -1,10 +1,10 @@
+## AUTHOR
+  ABDIHAKIM ABDIRAHMAN
+
 # DESCRIPTION.
 
 This page is basically a fictional studio.
 It contains brief discription of what is happening in their and other sections of portfolio which includes project which was done previously.The user is allowed to give a feedback and contact by filling the contact us form.
-
-## AUTHOR
-  ABDIHAKIM ABDIRAHMAN
 
 ## SETUP.
 1.clone project from remote into the local repository.
@@ -32,5 +32,5 @@ Email-abdihakimabdirahman21@gmail.com
 ##### LINK.
   https://abdikeem.github.io/project-week-3/
 
-  ### 
-
+  ### license & copy-right
+  MIT Copyright(c) 2019
