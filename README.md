@@ -1,9 +1,12 @@
+## AUTHOR
+  ABDIHAKIM ABDIRAHMAN
+
 # DESCRIPTION.
 
 This page is basically a fictional studio.
 It contains brief discription of what is happening in their and other sections of portfolio which includes project which was done previously.The user is allowed to give a feedback and contact by filling the contact us form.
 
-## setup.
+## SETUP.
 1.clone project from remote into the local repository.
 
 git clone https://github.com/abdikeem/project-week-3.git
@@ -14,7 +17,7 @@ cd delani-studio
 
 3.use your text editor to open the project.
 
-### languages and technic used.
+### TECHNICS AND LANGUAGES.
 
 * HTML
 * CSS
@@ -22,10 +25,12 @@ cd delani-studio
 * BOOTSTRAP 
 * JQUERY 3.4.1
 
-#### CONTACTS
+#### CONTACTS.
 Tel-0208000360
 Email-abdihakimabdirahman21@gmail.com
 
-##### link
+##### LINK.
   https://abdikeem.github.io/project-week-3/
 
+  ### license & copy-right
+  MIT Copyright(c) 2019

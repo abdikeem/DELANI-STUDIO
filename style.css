@@ -166,6 +166,44 @@ p{
   .port:hover .world-8{
     opacity: 1;
 }
+#about{
+  padding-top: 100px;
+}
+.contact .container-fluid  {
+  background-image: url("../_img/c_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding-top: 5%;
+}
 
+#message {
+  height: 200px;
+}
+
+.contact form {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.contact input {
+  margin-bottom: 50px;
+  background: transparent;
+}
+
+.contact textarea {
+  background: transparent;
+}
+
+.form-control {
+  background: transparent;
+  color: #fff;
+  width: 800px;
+  margin-left: 450px;
+}
+#submit{
+  background-color: black;
+}
+  
 
 
